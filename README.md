@@ -50,7 +50,7 @@ As part of the project, I designed a sample API named **NewPipe Library API**, i
 The API is documented using Swagger and follows the OpenAPI 3.0 specification.
 
 You can view the API documentation here:  
-👉 **Swagger Link:** *<add your SwaggerHub public link here>*  
+👉 **Swagger Link:** *<https://app.swaggerhub.com/apis/codingclassroom/NewPipe_Library_API/1.0.0>*  
 
 ---
 
